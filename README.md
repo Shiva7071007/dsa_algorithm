@@ -1,2 +1,2 @@
 # dsa_algorithm
-practicing dsa algorithm
+practicing DSA in kotlin
