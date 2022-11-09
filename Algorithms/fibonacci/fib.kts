@@ -1,5 +1,9 @@
 import java.lang.System
 
+/**
+ * time: O(2^n)
+ * space: O(n)
+ */
 fun fib(n: Int): Long {
     return if(n < 2) n.toLong()
     else fib(n-1)+ fib(n-2)
